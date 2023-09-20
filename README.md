@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/yIZbhasDNm0AAAAd/blue-lock-isagi.gif"/>
+  <img height="200" src="https://media.tenor.com/w1X8EWtlYnMAAAAC/gojo-satoru-jujutsu-kaisen.gif"/>
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and skills</h3>
 
 ###
 
@@ -40,6 +40,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
+
+- MVVM architecture
+- Room
+- Retrofit 2
+- Jetpack Compose
+- Dagger 2
+- Coroutines/Coroutine Flow
+- Yandex Authorization
+- Deep links
+- Notifications
 
 ###
 
