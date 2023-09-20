@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/yIZbhasDNm0AAAAd/blue-lock-isagi.gif"  />
+  <img height="200" src="https://media.tenor.com/yIZbhasDNm0AAAAd/blue-lock-isagi.gif" border-radius: "10" />
 </div>
 
 ###
