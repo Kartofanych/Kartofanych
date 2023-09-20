@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and skills</h3>
+<h3 align="left">🛠 Language and technology stack</h3>
 
 ###
 
@@ -41,15 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
-- MVVM architecture
+
+- MVVM
 - Room
 - Retrofit 2
 - Jetpack Compose
 - Dagger 2
-- Coroutines/Coroutine Flow
-- Yandex Authorization
-- Deep links
-- Notifications
+- Coroutines, Coroutine Flow
 
 ###
 
