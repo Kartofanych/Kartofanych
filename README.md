@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Nasybullin Karim from Russia, Innopolis<br><br>- 🔭 I’m working as Kotlin Android Mobile Developer<br>- 📚 I'm currently studying in Innopolis University, 2 year</p>
+<p align="left">I'm Karim from Russia, Innopolis<br><br>- 🔭 I’m working as Kotlin Android Mobile Developer<br>- 📚 I'm currently studying in Innopolis University, 2 year</p>
 
 ###
 
