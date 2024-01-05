@@ -43,7 +43,7 @@
 
 ###
 
-- MVVM
+- MVVM, MVI, MVP
 - Room
 - Retrofit 2
 - Jetpack Compose
