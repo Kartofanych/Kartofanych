@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Karim from Russia, Innopolis<br><br>- 🔭 I’m working as Kotlin Android Mobile Developer for more than 2 years<br>- 📚 I'm currently studying in Innopolis University, finished 3 year</p>
+<p align="left">I'm Karim from Russia, Innopolis<br><br>- 🔭 I’m working as Kotlin Android Mobile Developer for more than 2 years<br>- 📚 I'm currently studying in Innopolis University, finished 3rd year</p>
 
 ###
 
@@ -36,7 +36,7 @@
 - MVVM, MVI, MVP
 - Room
 - Retrofit 2
-- Jetpack Compose / XML / BD UI
+- Jetpack Compose / XML
 - Dagger 2
 - Coroutines, Flow
-
+- Experience with Maps / ExoPlayer / BD UI technologies
